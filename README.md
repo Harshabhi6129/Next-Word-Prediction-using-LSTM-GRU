@@ -1,5 +1,8 @@
 # **Project Overview:**
 
+**App Link:** https://next-word-prediction-using-lstm-gru-bsm7yqdjbzsbc4hz4mezzt.streamlit.app/
+
+
 This project aims to develop a deep learning model for predicting the next word in a given sequence of words. The model is built using Long Short-Term Memory (LSTM) networks, which are well-suited for sequence prediction tasks. The project includes the following steps:
 
 **Data Collection:** We use the text of Shakespeare's Hamlet as our dataset. This rich, complex text provides a good challenge for our model.
